@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Deprecated.** This TypeScript workflow engine (`herdr-woof` 0.x) is no longer maintained.
+> Woof was rewritten in Go and lives at [zielus/herdr-woof](https://github.com/zielus/herdr-woof)
+> (`herdr plugin install zielus/herdr-woof`). See its README for upgrading from 0.x.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/brand/woof.svg">
